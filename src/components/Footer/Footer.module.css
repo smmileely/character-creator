@@ -6,3 +6,7 @@
   text-align: center;
 }
 
+a {
+  position: relative;
+  color: white;
+}
